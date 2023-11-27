@@ -1,2 +1,2 @@
 # kotlin_biblioteca
-Biblioteca Digital, CRUD feito em Kotlin + React
+Biblioteca Digital, back-end feito em Kotlin
